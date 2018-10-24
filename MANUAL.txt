@@ -1,0 +1,47 @@
+#------------------------------------------------------------------------------
+#                                maxent-cpp
+#         A C++ implementation of the maximum-entropy basis functions
+#------------------------------------------------------------------------------
+#
+#            Version      : 1.0
+#            Date         : 24-OCT-2018  
+#            Source code  : http://camlab.cl/software/maxent
+#
+#------------------------------------------------------------------------------
+#
+#   Author     : R. Silva-Valenzuela, MSc student, rsilvavalenzue@ing.uchile.cl
+#   Supervisor : A. Ortiz-Bernardin, aortizb@uchile.cl, camlab.cl/alejandro
+#
+#------------------------------------------------------------------------------
+#
+#               (See Copyright and License notice in "license.txt")
+#
+#-------------------------------------------------------------------------------
+
+Description of the program
+==========================
+
+This program is controlled by the "main.cpp" file located in the foler "src". 
+Use "main.cpp" to define a test example. The default "main.cpp" file defines a 
+a 3D cloud of 8 nodes and solves the maxent approximation at a given sampling 
+point located in this cloud. Other examples are available in the same folder 
+(see files "3nodes1d.cpp", "4nodes2d.cpp", "6nodes3d.cpp").
+
+This program relies on g++ compiler and eigen library.
+
+Instructions
+============
+
+- On the top directory of maxent-cpp create a folder named "bin"
+- Open a terminal and, at the top directory of maxent-cpp, type make to build an
+  executable named "maxent-cpp" that will appear in the folder "bin"
+- Go inside the folder "bin" and execute "maxent-cpp"
+
+Program's website
+=================
+
+Check updates at http://camlab.cl/software/maxent
+
+
+
+

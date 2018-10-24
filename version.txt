@@ -1,0 +1,15 @@
+------------------------------------------------------------------------------
+                                maxent-cpp
+          A C++ implementation of the maximum-entropy basis functions
+
+               Source code  : http://camlab.cl/software/maxent
+               
+             (See Copyright and License notice in "license.txt")
+------------------------------------------------------------------------------
+Release notes
+=============
+Version 1.0 (24-OCT-2018). (Initial realease of code)
+
+-------------------------------------------------------------------------------
+References
+==========
