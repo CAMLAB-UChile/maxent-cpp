@@ -35,7 +35,8 @@ Instructions
 - On the top directory of maxent-cpp create a folder named "bin"
 - Open a terminal and, at the top directory of maxent-cpp, type make to build an
   executable named "maxent-cpp" that will appear in the folder "bin"
-- Go inside the folder "bin" and execute "maxent-cpp"
+- Go inside the folder "bin" and execute "maxent-cpp" by typing ./maxent-cpp
+  at the terminal
 
 Program's website
 =================
